@@ -65,38 +65,7 @@ This app is a pet project, built for the express purpose of honing my skills in 
 - MAILTRAP (Trapping the emails we send in our development environment, so they don't actually get sent to the user's email address)
 - SENDGRID (Sending actual emails to the users in production).
 
-## Setting Up Your Local Environment
 
-If you wish to play around with the code base in your local environment, do the following
-
-```
-* Clone this repo to your local machine.
-* Using the terminal, navigate to the cloned repo.
-* Install all the neccessary dependencies, as stipulated in the package.json file.
-* If you don't already have one, set up accounts with: MONGODB, MAPBOX, STRIPE, SENDGRID and MAILTRAP. Please ensure to have at least basic knowledge of how these services work.
-* In your .env file, set environment variables for the following:
-    * DATABASE=your mongodb database url
-    * DATABASE_PASSWORD=your mongodb password
-
-    * SECRET=your json web token secret
-    * JWT_EXPIRES_IN=90d
-    * JWT_COOKIE_EXPIRES_IN=90
-
-    * EMAIL_USERNAME=your mailtrap username
-    * EMAIL_PASSWORD=your mailtrap password
-    * EMAIL_HOST=smtp.mailtrap.io
-    * EMAIL_PORT=2525
-    * EMAIL_FROM=your real life email address
-
-    * SENDGRID_USERNAME=apikey
-    * SENDGRID_PASSWORD=your sendgrid password
-
-    * STRIPE_SECRET_KEY=your stripe secret key
-    * STRIPE_WEBHOOK_SECRET=your stripe web hook secret
-
-* Start the server.
-* Your app should be running just fine.
-```
 
 #### Demo-`.env` file :
 
