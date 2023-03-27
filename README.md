@@ -20,37 +20,9 @@ Users can write only one review for any tour they book.
 
 This app is a pet project, built for the express purpose of honing my skills in full stack web development.
 
-## Demonstration
-
-#### Home Page :
-
-<!-- ![natoursHomePage](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Home.png | width=640) -->
-<img src="https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Home.png" width="640">
-
-#### Tour Details :
-
-![tourOverview](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
-
-#### Payment Process :
-
-<!-- ![paymentprocess](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Payment.png | width=640) -->
-<img src="https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Payment.png" width="640">
-
-#### LOGIN PAGE :
-
-<!-- ![login](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Login.png | width=640) -->
-<img src="https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Login.png" width="640">
-
-#### User Profile :
-
-<!-- ![userprofile](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Admin.png | width=640) -->
-<img src="https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Admin.png" width="640">
 
 ## Main Tools And Technologies Used
 
-- HTML (Create the structure and content of the web pages).
-- CSS (Styling of the web pages).
-- PUG (Template engine for generating the web pages dynamically).
 - JAVASCRIPT (Interactivity, as well as making requests to the API from the client-side).
 - NODE (Run JavaScript code on the server-side).
 - EXPRESS (Node framework, meant to simplify the process of building complex server-side applications).
