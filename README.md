@@ -125,9 +125,4 @@ This app is a pet project, built for the express purpose of honing my skills in 
 - A regular user can remove a tour from their list of favorite tours.
 - A regular user can not add a tour to their list of favorite tours, when it is already a favorite.
 
-## Notice
 
-The app is actually quite more complex than is indicated in this documentation.
-Nevertheless, this summary is enough to help you understand the major features of the app.
-You are welcome to make improvements on the app.
-Please use the link specified at the beginning of the document to preview the app.
