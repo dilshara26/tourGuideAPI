@@ -2,9 +2,7 @@
 
 This full stack web application is specially designed for persons who love travelling and going on tour vacations.
 
-This app can be found at [https://natours-nachiketa.herokuapp.com/](https://natours-nachiketa.herokuapp.com/).
-The documentation of the API for this app can be found at [https://documenter.getpostman.com/view/13036021/TWDfEZ3P](https://documenter.getpostman.com/view/13036021/TWDfEZ3P)
-The API and the app itself are hosted on the same server.
+
 
 ## Overview
 
